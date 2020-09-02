@@ -83,7 +83,7 @@
                 capsent$Amount<-as.numeric(gsub(",","",capsent$Amount)) # Remove the ',' from excel numeric data. 
                 capsent <- subset(capsent,capsent$Amount > 0) # Normally assets greater than $5k however transactions are broken down into sep lines
                 capsent <- capsent[order(-capsent$CapSentiment), ] # Sort the data by Sentiment score in Descending Order
-                write.csv(capsent, "OPEX_Analysis.csv")
+                #write.csv(capsent, "OPEX_Analysis.csv")
                 
                 capsent$Document.Type<- as.character(capsent$Document.Type)
                 
