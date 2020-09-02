@@ -13,7 +13,7 @@ server <- function(input, output) {
   syslog <- cbind(syslog,as.POSIXlt(Sys.time()), "OPEXAudit")
   write.table(syslog, "syslog.csv", sep=",", col.names = F, append = T) # Append the data to an existing log file
   # Write the system log information to file
-  write.table(syslog, "//pe-file01/PPA_SHARED/BI Data/RStudio/Shiny/syslog.csv", sep=",", col.names = F, append = T)
+  #write.table(syslog, "//pe-file01/PPA_SHARED/BI Data/RStudio/Shiny/syslog.csv", sep=",", col.names = F, append = T)
   
   
   output$contents <- DT::renderDataTable({
