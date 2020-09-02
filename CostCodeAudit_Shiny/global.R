@@ -90,10 +90,10 @@
                 capsent<-subset(capsent, grepl('^M', capsent$Project.No) == TRUE & capsent$Document.Type == "APINVS" | 
                                         capsent$Document.Type == "APINVI" | capsent$Document.Type == "APINVP" | 
                                         capsent$Document.Type == "$APINVCE") # Filter by M Codes and document type
-                write.csv(capsent, "OPEX_To_Check.csv")
-                syslog <- t(as.matrix(Sys.getenv())) # Create system data
-                syslog <- cbind(Sys.time())
-                write.table(syslog, "syslog.csv", sep=",",col.names = F, append = T) # Append the data to an existing log file
+                #write.csv(capsent, "OPEX_To_Check.csv")
+                #syslog <- t(as.matrix(Sys.getenv())) # Create system data
+                #syslog <- cbind(Sys.time())
+                #write.table(syslog, "syslog.csv", sep=",",col.names = F, append = T) # Append the data to an existing log file
                 #write.csv(syslog,"syslog.csv")
                 #Sys.getenv('USERNAME')
 
