@@ -1,0 +1,17 @@
+Ledger Name,Project No,Project Description,Date,Period,Reference,Trans Nbr,Ordernr,Order Line Nbr,Document Type,Unique Number,Amount,Narrative 1,Narrative 2,Narrative 3,Funding Source,Accountnr
+20PLACT,C100083,PIR (IMOC) Tower & Building Design Development,26/06/2019,1,1494,1,P039882,1,APINVP,228789,"9,100",IMOC Vermiculite Sealant Level 7 CommsRm,,Robertson Coatings Pty Ltd,PIR,C100083.6105.02.01
+20PLACT,C100085,PIR (IMOC) Tower & Building D & C Contract,30/06/2019,1,RJ001331,1,,,$REVJRNL,0,-440,Adjust Public Address speakers in IMOC t,P038953/0,EOM PL Commitment accrual,PIR,C100085.6105.02.00
+20PLACT,C100085,PIR (IMOC) Tower & Building D & C Contract,31/07/2019,1,RJ001376,3,,,$REVJRNL,0,440,Adjust Public Address speakers in IMOC t,P038953/0,EOM PL Commitment accrual,PIR,C100085.6105.02.00
+20PLACT,C100085,PIR (IMOC) Tower & Building D & C Contract,31/07/2019,2,RJ001376,4,,,$REVJRNL,0,-440,Adjust Public Address speakers in IMOC t,P038953/0,EOM PL Commitment accrual,PIR,C100085.6105.02.00
+20PLACT,C100085,PIR (IMOC) Tower & Building D & C Contract,31/08/2019,2,RJ001418,5,,,$REVJRNL,0,440,Adjust Public Address speakers in IMOC t,P038953/0,EOM PL Commitment accrual,PIR,C100085.6105.02.00
+20PLACT,C100085,PIR (IMOC) Tower & Building D & C Contract,31/08/2019,3,RJ001418,6,,,$REVJRNL,0,-440,Adjust Public Address speakers in IMOC t,P038953/0,EOM PL Commitment accrual,PIR,C100085.6105.02.00
+20PLACT,C100085,PIR (IMOC) Tower & Building D & C Contract,30/09/2019,3,RJ001460,7,,,$REVJRNL,0,440,Adjust Public Address speakers in IMOC t,P038953/0,EOM PL Commitment accrual,PIR,C100085.6105.02.00
+20PLACT,C100085,PIR (IMOC) Tower & Building D & C Contract,30/09/2019,4,RJ001460,8,,,$REVJRNL,0,-440,Adjust Public Address speakers in IMOC t,P038953/0,EOM PL Commitment accrual,PIR,C100085.6105.02.00
+20PLACT,C100085,PIR (IMOC) Tower & Building D & C Contract,14/08/2019,4,INV-262943,9,P038953,1,APINVP,245326,420,Adjust Public Address speakers in IMOC t,,Fire & Safety Services Co Pty Ltd,PIR,C100085.6105.02.00
+20PLACT,C100085,PIR (IMOC) Tower & Building D & C Contract,9/05/2019,1,INV-262192,1,P039267,1,APINVP,228116,660,Call Outs to FIP in IMOC Building,,Fire & Safety Services Co Pty Ltd,PIR,C100085.6105.02.01
+20PLACT,C100085,PIR (IMOC) Tower & Building D & C Contract,12/07/2019,1,635,2,P039625,1,APINVP,230065,"5,140",Retaining Wall for Fire Hydrant,,MJW Building Pty Ltd,PIR,C100085.6105.02.01
+20PLACT,C100085,PIR (IMOC) Tower & Building D & C Contract,31/07/2019,1,RJ001388,4,,,$REVJRNL,0,"1,343",IMOC Level 5 Electrical Works,Wesco Electrics; Inv: 48360; P039858,Unposted Doc Accrual 076329,PIR,C100085.6105.02.01
+20PLACT,C100085,PIR (IMOC) Tower & Building D & C Contract,31/07/2019,1,RJ001388,5,,,$REVJRNL,0,"1,121",Electrical Services to IMOC,Wesco Electrics; Inv: 48436; P040335,Unposted Doc Accrual 076335,PIR,C100085.6105.02.01
+20PLACT,C100085,PIR (IMOC) Tower & Building D & C Contract,31/07/2019,2,RJ001388,6,,,$REVJRNL,0,"-1,343",IMOC Level 5 Electrical Works,Wesco Electrics; Inv: 48360; P039858,Unposted Doc Accrual 076329,PIR,C100085.6105.02.01
+20PLACT,C100085,PIR (IMOC) Tower & Building D & C Contract,31/07/2019,2,RJ001388,7,,,$REVJRNL,0,"-1,121",Electrical Services to IMOC,Wesco Electrics; Inv: 48436; P040335,Unposted Doc Accrual 076335,PIR,C100085.6105.02.01
+20PLACT,C100085,PIR (IMOC) Tower & Building D & C Contract,8/07/2019,2,48360,8,P039858,1,APINVP,232686,"1,343",IMOC Level 5 Electrical Works,,Wesco Electrics,PIR,C100085.6105.02.01
