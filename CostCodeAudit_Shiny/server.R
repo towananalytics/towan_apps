@@ -8,10 +8,10 @@ server <- function(input, output) {
   temp_df2 <- reactiveValues(df_data = NULL)
   
   # Create a system log
-  syslog <- t(as.matrix(Sys.getenv('USERNAME'))) # Create system data
-  syslog <- as.data.frame(syslog)
-  syslog <- cbind(syslog,as.POSIXlt(Sys.time()), "OPEXAudit")
-  write.table(syslog, "syslog.csv", sep=",", col.names = F, append = T) # Append the data to an existing log file
+  #syslog <- t(as.matrix(Sys.getenv('USERNAME'))) # Create system data
+  #syslog <- as.data.frame(syslog)
+  #syslog <- cbind(syslog,as.POSIXlt(Sys.time()), "OPEXAudit")
+  #write.table(syslog, "syslog.csv", sep=",", col.names = F, append = T) # Append the data to an existing log file
   # Write the system log information to file
   #write.table(syslog, "//pe-file01/PPA_SHARED/BI Data/RStudio/Shiny/syslog.csv", sep=",", col.names = F, append = T)
   
