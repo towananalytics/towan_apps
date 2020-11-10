@@ -53,7 +53,8 @@ ui <- fluidPage(
     # Main panel for displaying outputs ----
     mainPanel(
         
-        img(src='PPA LOGO_PNG.png', align = "right"),
+        # img(src='PPA LOGO_PNG.png', align = "right"),
+      img(src='logo.png', align = "right"),
       h2("ORIGINAL DATA"),
       DT::dataTableOutput("contents"),
       br(),
